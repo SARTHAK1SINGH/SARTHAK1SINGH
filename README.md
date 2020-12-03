@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 > - Flask
 > - MongoDB 
 > # 📫 Reach me At: ...
-[<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://support.west-wind.com)
+>  [<img src="https://i.ibb.co/grgTybj/iconfinder-Rounded-Linkedin2-svg-5282542.png">](https://www.linkedin.com/in/sarthak-singh-310752185/)  [<img src="https://i.ibb.co/HKJk3PZ/iconfinder-147-Gmail-logo-logos-4373722.png">](mailto:singhsarthak399@gmail.com)
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
