@@ -14,21 +14,23 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-> #🔭 I’m currently working on ... <br>
+> # 🔭 I’m currently working on ... <br>
 
 > - Full-stack Web-development
 > - Competative programming
-> - Python & Python Frameworks <hr>
+> - Python & Python Frameworks 
 
 > # 🌱 I’m currently learning ... <br>
 > - Ember.js
 > - Flask
-> - MongoDB <hr>
+> - MongoDB 
+> # 📫 Reach me At: ...
+[<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://support.west-wind.com)
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
