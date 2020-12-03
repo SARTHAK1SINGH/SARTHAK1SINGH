@@ -1,4 +1,4 @@
-<div align="center"> Hi there 👋 I am Sarthak Singh <hr>
+<div align="center"> <h2>Hi there 👋 I am Sarthak Singh </h2> <hr>
 Full-stack Web Developer and Explorateur <br>
 Studing at:- Harcourt Butler Technical university Final year CSE <hr>
 
