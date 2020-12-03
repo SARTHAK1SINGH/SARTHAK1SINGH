@@ -1,4 +1,8 @@
-<div align="center"> Hi there 👋 </div>
+<div align="center"> Hi there 👋 I am Sarthak Singh <hr>
+Full-stack Web Developer and Explorateur <br>
+Studing at:- Harcourt Butler Technical university Final year CSE <hr>
+
+</div>
 
 <!--
 **SARTHAK1SINGH/SARTHAK1SINGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
