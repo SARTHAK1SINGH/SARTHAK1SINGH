@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 > - MongoDB 
 > # 📫 Reach me At: ...
 >  [<img align="center" src="https://i.ibb.co/grgTybj/iconfinder-Rounded-Linkedin2-svg-5282542.png" alt="Linkedin">](https://www.linkedin.com/in/sarthak-singh-310752185)          [<img src="https://i.ibb.co/HKJk3PZ/iconfinder-147-Gmail-logo-logos-4373722.png" alt="Gmail">](mailto:singhsarthak399@gmail.com)
+[<img src="https://i.ibb.co/grgTybj/iconfinder-Rounded-Linkedin2-svg-5282542.png" alt="Gmail">](mailto:singhsarthak399@gmail.com)
+
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
