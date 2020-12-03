@@ -1,6 +1,6 @@
 <div align="center"> <h2>Hi there 👋 I am Sarthak Singh </h2> <hr>
-Full-stack Web Developer and Explorateur <br>
-Studing at:- Harcourt Butler Technical university Final year CSE <hr>
+<h3>Full-stack Web Developer and Explorateur <br>
+  Studing at:- Harcourt Butler Technical university Final year CSE</h3> <hr>
 
 </div>
 
