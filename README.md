@@ -1,6 +1,6 @@
 <div align="center"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SARTHAK1SINGH" alt="SARTHAK SINGH" /> </p>
-<h2>Hi there 👋 I am Sarthak Singh </h2> <hr>
+<h2>Hi there 👋 I am Sarthak Singh </h2>
 <h3>Full-stack Web Developer and Explorateur <br>
   Studing at:- Harcourt Butler Technical university Final year CSE</h3> <hr>
 
