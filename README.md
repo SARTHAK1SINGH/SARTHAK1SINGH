@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SARTHAK1SINGH" alt="SARTHAK SINGH" /> </p>
 <h2>Hi there 👋 I am Sarthak Singh </h2>
 <h3>Full-stack Web Developer and Explorateur <br>
-  Studing at:- Harcourt Butler Technical university Final year CSE</h3> <hr>
+  Studied at:- Harcourt Butler Technical university - CSE</h3> <hr>
 
 </div>
 
@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 > - Python & Python Frameworks 
 
 > # 🌱 I’m currently learning ... <br>
-> - Ember.js
-> - Flask
-> - MongoDB 
+> - Spring Boot
+> - React-Native
+> - Postgre
 
 > # 📫 Reach me At: ...
 > [<img src="https://i.ibb.co/HKJk3PZ/iconfinder-147-Gmail-logo-logos-4373722.png" alt="Gmail">](mailto:singhsarthak399@gmail.com)
-[<img src="https://i.ibb.co/grgTybj/iconfinder-Rounded-Linkedin2-svg-5282542.png" height="60" alt="LinkedIn">](https://www.linkedin.com/in/sarthak-singh-310752185)
+[<img src="https://i.ibb.co/grgTybj/iconfinder-Rounded-Linkedin2-svg-5282542.png" height="50" alt="LinkedIn">](https://www.linkedin.com/in/sarthak-singh-310752185)
 
 
 <p align="center" >
