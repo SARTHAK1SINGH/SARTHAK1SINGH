@@ -1,8 +1,10 @@
 <div align="center"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SARTHAK1SINGH" alt="SARTHAK SINGH" /> </p>
 <h2>Hi there 👋 I am Sarthak Singh </h2>
-<h3>Full-stack Web Developer and Explorateur <br>
-  Studied at:- Harcourt Butler Technical university - CSE</h3> <hr>
+<h3>Senior Software Engineer and Explorer <br>
+  Studied at:- Harcourt Butler Technical University - BTech - CSE <br>
+  Working at:- Mahindra Comviva
+</h3> <hr>
 
 </div>
 
@@ -22,14 +24,15 @@ Here are some ideas to get you started:
 -->
 
 > # 🔭 I’m currently working on ... <br>
-> - Full-stack Web-development
+> - Senior Software Engineer
 > - Competative programming
-> - Python & Python Frameworks 
+> - Java & Java Frameworks 
 
 > # 🌱 I’m currently learning ... <br>
 > - Spring Boot
-> - React-Native
-> - Postgre
+> - Quarkus
+> - Kafka
+> - Restful APIs
 
 > # 📫 Reach me At: ...
 > [<img src="https://i.ibb.co/HKJk3PZ/iconfinder-147-Gmail-logo-logos-4373722.png" alt="Gmail">](mailto:singhsarthak399@gmail.com)
