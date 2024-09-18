@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 -->
 
 > # 🔭 I’m currently working on ... <br>
-> - Senior Software Engineer
-> - Competative programming
+> - Backend Development
+> - Competitive programming
 > - Java & Java Frameworks 
 
 > # 🌱 I’m currently learning ... <br>
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 > - Quarkus
 > - Kafka
 > - Restful APIs
+> - Cloud Services
 
 > # 📫 Reach me At: ...
 > [<img src="https://i.ibb.co/HKJk3PZ/iconfinder-147-Gmail-logo-logos-4373722.png" alt="Gmail">](mailto:singhsarthak399@gmail.com)
